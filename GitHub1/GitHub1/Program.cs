@@ -10,7 +10,7 @@ namespace GitHub1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Second");
+            Console.WriteLine("Third");
         }
     }
 }
